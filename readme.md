@@ -8,4 +8,4 @@
 
 Splash | Login
 -------|--------
-![](img/flor.jpg) | ![](img/cuidados_calend.jpg)
+![](img/flor.jpg) | ![](img/cuidados_calendula.jpg)
