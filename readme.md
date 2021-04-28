@@ -8,4 +8,4 @@
 
 Splash | Login
 -------|--------
-![](img/splash.jpg) | ![](img/login.jpg)
+![](img/flor.jpg) | ![](img/cuidados_calend.jpg)
